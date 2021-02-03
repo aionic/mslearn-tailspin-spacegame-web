@@ -1,6 +1,6 @@
 # Custom ASP Build Task
 # Following MSLearn Criteria
-# Updated 2/3/21
+# Updated
 
 trigger:
 - '*'
